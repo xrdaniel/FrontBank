@@ -1,4 +1,4 @@
-# ResidUP - A inovação que faltava no seu dia a dia!
+# Bank - Front em React Native
 
 [PROJETO FEITO PARA ESTUDO]
 
